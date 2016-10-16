@@ -1,4 +1,4 @@
-# platformergamesparadise
+# The Tiger Cub 
 first platformer game level: The Tiger Cub
 
 Your mother has been gone for a lot longer than expected and its almost dinner time! 
