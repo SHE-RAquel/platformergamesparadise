@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Crazy Cat Lady game</title>
+</head>
+<body>
+<script type="text/javascript">
+<div style= width: 32px;
+			height: 32px;
+			background-image: url(sprite)
+</script>
+</body>
+</html>
